@@ -36,7 +36,7 @@ dependencies {
 	compile('org.synchronoss.cloud:nio-multipart-parser')
 	compile('org.springframework.boot:spring-boot-starter-data-mongodb-reactive')
 	compile("org.springframework.boot:spring-boot-starter-thymeleaf")
-
+	compile('de.flapdoodle.embed:de.flapdoodle.embed.mongo')
 	compile('org.springframework.boot:spring-boot-devtools')
 
 	compile('org.projectlombok:lombok')
