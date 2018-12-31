@@ -45,3 +45,29 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+/.project
+/.settings/
+/.idea
+/.vscode/
+/deploy
+/target
+/build/
+/**/.idea
+/**/out
+/**/build
+/**/.gradle
+/**/gradle
+/**/gradlew
+/**/gradlew.bat
+*.iml
+out/
+
+### IntelliJ IDEA ###
+.idea
+.idea/
+*.iws
+*.iml
+*.ipr
+/.gradle/
